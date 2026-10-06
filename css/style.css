@@ -1,0 +1,41 @@
+body {
+    background-color: #fdf6e3;
+    background-image: url("../images/key-lime-background.jpg");
+    font-family: Georgia, "Times New Roman", serif;
+    color: #4a5c2a;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Berkshrie Swash", sans-serif;
+    color: #caa151;
+    text-shadow: 3px 3px 3px #510321;
+    font-style: oblique;
+}
+
+p {
+    color: rgb(238, 0, 255);
+}
+
+li {
+    color: rgb(1, 3, 10);
+}
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper>div {
+    
+    flex: 1;
+    padding: 10px;
+    background-color: rgb(210, 232, 207);
+   
+    
+}
+/*div {
+
+ border: double rgb(237, 100, 100);
+
+} */
+ul li ol hr span figure input fieldset {}
